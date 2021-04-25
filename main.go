@@ -5,7 +5,7 @@ import (
 	"./routes"
 	"github.com/gofiber/fiber"
 )
-git
+
 func main() {
 
 	database.Connect()
